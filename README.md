@@ -1,4 +1,4 @@
-# Project 1 — IoT Edge Device Monitoring Platform
+IoT Edge Device Monitoring Platform
 
 **Tech stack:** Python · Flask · MQTT (Eclipse Mosquitto) · PostgreSQL · Docker Compose · React · REST APIs
 
